@@ -34,8 +34,7 @@ Make sure you have R installed with necessary libraries:
 install.packages("utils")
 
 Project Files
-# 1.  
-# module_2_assignment_salary_function.py (Python Script)
+# 1.  module_2_assignment_salary_function.py (Python Script)
 This script performs the following tasks:
 Reads the Total.csv file.
 Implements a function to retrieve employee details.
@@ -51,8 +50,7 @@ python module_2_assignment_salary_function.py
 Upon execution, the script will generate an Employee_Profile.zip containing the employee details.
 
 
-# 2. 
-# unzip_and_display.R (R Script)
+# 2. unzip_and_display.R (R Script)
 This script extracts and reads the employee CSV file from the ZIP archive.
 Usage
 Run the R script in R:
